@@ -21,7 +21,7 @@ Dataset can be found at repository
 
 ## Exploring the Data:<a name="viz"></a>
 
-Here I will use pandas and seaborn visualization skills to determine if Fandango's ratings in 2015 had a bias towards rating movies better to sell more tickets.
+I had use pandas and seaborn visualization skills.
 
 **Matplotlib:**<a name="matplotlib"></a>
 --------
